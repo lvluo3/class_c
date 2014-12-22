@@ -1,0 +1,16 @@
+1.sys func
+
+shift + k
+
+2.my func
+
+sudo apt-get install ctags
+ctags -R  -> to build tags file
+:set tags = ./tags
+
+ctrl + ] -> to define
+ctrl + t -> back 
+
+3.polishing ??
+4.taglist??
+
