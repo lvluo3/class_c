@@ -1,0 +1,4 @@
+1.encapsulation
+2.error
+3.no this pointor
+4.write c code
